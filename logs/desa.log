@@ -1,0 +1,214 @@
+2021-01-13 15:08:13,433 [read:64] DEBUG application.config - Root element : config
+2021-01-13 15:08:13,546 [read:79] DEBUG application.config - db_conn: jdbc:mysql://localhost:3306/desa-logger: db_user=root: db_pass=password
+2021-01-13 15:08:13,547 [parseStringField:113] DEBUG application.config - panel: ArborForest
+2021-01-13 15:08:13,548 [parseIntField:132] DEBUG application.config - machineCount: 18
+2021-01-13 15:08:13,548 [parseIntField:132] DEBUG application.config - version: 1
+2021-01-13 15:08:13,549 [parseMachines:137] DEBUG application.config - ----------------------------
+2021-01-13 15:08:13,549 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 15:08:13,552 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 15:08:13,553 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 15:08:13,553 [parseAnalogs:168] DEBUG application.config - ----------------------------
+2021-01-13 15:10:00,550 [read:64] DEBUG application.config - Root element : config
+2021-01-13 15:10:00,559 [read:79] DEBUG application.config - db_conn: jdbc:mysql://localhost:3306/desa-logger: db_user=root: db_pass=password
+2021-01-13 15:10:00,560 [parseStringField:113] DEBUG application.config - panel: ArborForest
+2021-01-13 15:10:00,561 [parseIntField:132] DEBUG application.config - machineCount: 18
+2021-01-13 15:10:00,562 [parseIntField:132] DEBUG application.config - version: 1
+2021-01-13 15:10:00,562 [parseMachines:137] DEBUG application.config - ----------------------------
+2021-01-13 15:10:00,563 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 15:10:00,565 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 15:10:00,566 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 15:10:00,566 [parseAnalogs:168] DEBUG application.config - ----------------------------
+2021-01-13 15:10:50,438 [getData:306] DEBUG application.mainWindowContr - Loading ODBC driver...
+2021-01-13 15:10:50,550 [getData:310] DEBUG application.mainWindowContr - Driver loaded!
+2021-01-13 15:10:50,551 [getData:316] DEBUG application.mainWindowContr - Connecting database...
+2021-01-13 15:10:54,961 [getData:321] DEBUG application.mainWindowContr - Database connected!
+2021-01-13 15:10:59,591 [getData:393] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:10:59,738 [getData:478] DEBUG application.mainWindowContr - Retrieved data from machine 1
+2021-01-13 15:10:59,823 [getData:393] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:11:00,138 [getData:478] DEBUG application.mainWindowContr - Retrieved data from machine 2
+2021-01-13 15:11:00,224 [getData:393] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:11:00,459 [getData:478] DEBUG application.mainWindowContr - Retrieved data from machine 3
+2021-01-13 15:11:00,618 [getData:514] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:11:00,879 [getData:617] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:11:00,897 [getData:306] DEBUG application.mainWindowContr - Loading ODBC driver...
+2021-01-13 15:11:00,897 [getData:310] DEBUG application.mainWindowContr - Driver loaded!
+2021-01-13 15:11:00,898 [getData:316] DEBUG application.mainWindowContr - Connecting database...
+2021-01-13 15:11:00,955 [getData:321] DEBUG application.mainWindowContr - Database connected!
+2021-01-13 15:11:01,217 [getData:393] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:11:01,323 [getData:478] DEBUG application.mainWindowContr - Retrieved data from machine 1
+2021-01-13 15:11:01,429 [getData:393] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:11:01,541 [getData:478] DEBUG application.mainWindowContr - Retrieved data from machine 2
+2021-01-13 15:11:01,623 [getData:393] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:11:01,733 [getData:478] DEBUG application.mainWindowContr - Retrieved data from machine 3
+2021-01-13 15:11:01,822 [getData:514] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:11:02,032 [getData:617] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:15:23,064 [read:64] DEBUG application.config - Root element : config
+2021-01-13 15:15:23,074 [read:79] DEBUG application.config - db_conn: jdbc:mysql://localhost:3306/desa-logger: db_user=root: db_pass=password
+2021-01-13 15:15:23,075 [parseStringField:113] DEBUG application.config - panel: ArborForest
+2021-01-13 15:15:23,075 [parseIntField:132] DEBUG application.config - machineCount: 18
+2021-01-13 15:15:23,076 [parseIntField:132] DEBUG application.config - version: 1
+2021-01-13 15:15:23,076 [parseMachines:137] DEBUG application.config - ----------------------------
+2021-01-13 15:15:23,077 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 15:15:23,079 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 15:15:23,080 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 15:15:23,080 [parseAnalogs:168] DEBUG application.config - ----------------------------
+2021-01-13 15:16:25,667 [getData:306] DEBUG application.mainWindowContr - Loading ODBC driver...
+2021-01-13 15:16:25,681 [getData:310] DEBUG application.mainWindowContr - Driver loaded!
+2021-01-13 15:16:25,682 [getData:316] DEBUG application.mainWindowContr - Connecting database...
+2021-01-13 15:16:27,822 [getData:321] DEBUG application.mainWindowContr - Database connected!
+2021-01-13 15:16:29,702 [getData:393] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:16:29,840 [getData:478] DEBUG application.mainWindowContr - Retrieved data from machine 1
+2021-01-13 15:16:29,916 [getData:393] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:16:30,049 [getData:478] DEBUG application.mainWindowContr - Retrieved data from machine 2
+2021-01-13 15:16:30,136 [getData:393] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:16:30,251 [getData:478] DEBUG application.mainWindowContr - Retrieved data from machine 3
+2021-01-13 15:16:30,385 [getData:514] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:16:30,627 [getData:617] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:32:19,871 [read:64] DEBUG application.config - Root element : config
+2021-01-13 15:32:19,881 [read:79] DEBUG application.config - db_conn: jdbc:mysql://localhost:3306/desa-logger: db_user=root: db_pass=password
+2021-01-13 15:32:19,882 [parseStringField:113] DEBUG application.config - panel: ArborForest
+2021-01-13 15:32:19,883 [parseIntField:132] DEBUG application.config - machineCount: 18
+2021-01-13 15:32:19,883 [parseIntField:132] DEBUG application.config - version: 1
+2021-01-13 15:32:19,884 [parseMachines:137] DEBUG application.config - ----------------------------
+2021-01-13 15:32:19,884 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 15:32:19,887 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 15:32:19,887 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 15:32:19,888 [parseAnalogs:168] DEBUG application.config - ----------------------------
+2021-01-13 15:33:15,016 [getData:306] DEBUG application.mainWindowContr - Loading ODBC driver...
+2021-01-13 15:33:15,031 [getData:310] DEBUG application.mainWindowContr - Driver loaded!
+2021-01-13 15:33:15,032 [getData:316] DEBUG application.mainWindowContr - Connecting database...
+2021-01-13 15:33:17,348 [getData:321] DEBUG application.mainWindowContr - Database connected!
+2021-01-13 15:33:19,395 [getData:393] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:33:19,546 [getData:478] DEBUG application.mainWindowContr - Retrieved data from machine 1
+2021-01-13 15:33:19,632 [getData:393] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:33:19,765 [getData:478] DEBUG application.mainWindowContr - Retrieved data from machine 2
+2021-01-13 15:33:19,848 [getData:393] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:33:19,990 [getData:478] DEBUG application.mainWindowContr - Retrieved data from machine 3
+2021-01-13 15:33:20,137 [getData:514] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:33:20,404 [getData:617] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:33:20,415 [getData:626] DEBUG application.mainWindowContr - this bithd emtoy
+2021-01-13 15:33:20,416 [getData:626] DEBUG application.mainWindowContr - this bithd emtoy
+2021-01-13 15:33:20,417 [getData:626] DEBUG application.mainWindowContr - this bithd emtoy
+2021-01-13 15:33:20,418 [getData:626] DEBUG application.mainWindowContr - this bithd emtoy
+2021-01-13 15:33:20,419 [getData:626] DEBUG application.mainWindowContr - this bithd emtoy
+2021-01-13 15:33:20,424 [getData:626] DEBUG application.mainWindowContr - this bithd emtoy
+2021-01-13 15:33:20,425 [getData:626] DEBUG application.mainWindowContr - this bithd emtoy
+2021-01-13 15:35:30,371 [read:64] DEBUG application.config - Root element : config
+2021-01-13 15:35:30,382 [read:79] DEBUG application.config - db_conn: jdbc:mysql://localhost:3306/desa-logger: db_user=root: db_pass=password
+2021-01-13 15:35:30,383 [parseStringField:113] DEBUG application.config - panel: ArborForest
+2021-01-13 15:35:30,384 [parseIntField:132] DEBUG application.config - machineCount: 18
+2021-01-13 15:35:30,385 [parseIntField:132] DEBUG application.config - version: 1
+2021-01-13 15:35:30,385 [parseMachines:137] DEBUG application.config - ----------------------------
+2021-01-13 15:35:30,386 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 15:35:30,389 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 15:35:30,389 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 15:35:30,390 [parseAnalogs:168] DEBUG application.config - ----------------------------
+2021-01-13 15:37:28,426 [getData:306] DEBUG application.mainWindowContr - Loading ODBC driver...
+2021-01-13 15:37:28,439 [getData:310] DEBUG application.mainWindowContr - Driver loaded!
+2021-01-13 15:37:28,440 [getData:316] DEBUG application.mainWindowContr - Connecting database...
+2021-01-13 15:37:30,684 [getData:321] DEBUG application.mainWindowContr - Database connected!
+2021-01-13 15:37:32,526 [getData:393] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:37:32,669 [getData:478] DEBUG application.mainWindowContr - Retrieved data from machine 1
+2021-01-13 15:37:32,774 [getData:393] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:37:32,915 [getData:478] DEBUG application.mainWindowContr - Retrieved data from machine 2
+2021-01-13 15:37:33,006 [getData:393] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:37:33,123 [getData:478] DEBUG application.mainWindowContr - Retrieved data from machine 3
+2021-01-13 15:37:33,221 [getData:514] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:37:33,516 [getData:617] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:53:18,006 [read:64] DEBUG application.config - Root element : config
+2021-01-13 15:53:18,016 [read:79] DEBUG application.config - db_conn: jdbc:mysql://localhost:3306/desa-logger: db_user=root: db_pass=password
+2021-01-13 15:53:18,017 [parseStringField:113] DEBUG application.config - panel: ArborForest
+2021-01-13 15:53:18,017 [parseIntField:132] DEBUG application.config - machineCount: 18
+2021-01-13 15:53:18,018 [parseIntField:132] DEBUG application.config - version: 1
+2021-01-13 15:53:18,019 [parseMachines:137] DEBUG application.config - ----------------------------
+2021-01-13 15:53:18,019 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 15:53:18,021 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 15:53:18,022 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 15:53:18,023 [parseAnalogs:168] DEBUG application.config - ----------------------------
+2021-01-13 15:53:56,301 [getData:306] DEBUG application.mainWindowContr - Loading ODBC driver...
+2021-01-13 15:53:56,314 [getData:310] DEBUG application.mainWindowContr - Driver loaded!
+2021-01-13 15:53:56,315 [getData:316] DEBUG application.mainWindowContr - Connecting database...
+2021-01-13 15:53:58,419 [getData:321] DEBUG application.mainWindowContr - Database connected!
+2021-01-13 15:54:00,241 [getData:393] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:54:00,375 [getData:478] DEBUG application.mainWindowContr - Retrieved data from machine 1
+2021-01-13 15:54:00,450 [getData:393] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:54:00,566 [getData:478] DEBUG application.mainWindowContr - Retrieved data from machine 2
+2021-01-13 15:54:00,642 [getData:393] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:54:00,756 [getData:478] DEBUG application.mainWindowContr - Retrieved data from machine 3
+2021-01-13 15:54:00,971 [getData:514] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:54:01,208 [getData:617] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:55:29,493 [read:64] DEBUG application.config - Root element : config
+2021-01-13 15:55:29,502 [read:79] DEBUG application.config - db_conn: jdbc:mysql://localhost:3306/desa-logger: db_user=root: db_pass=password
+2021-01-13 15:55:29,503 [parseStringField:113] DEBUG application.config - panel: ArborForest
+2021-01-13 15:55:29,503 [parseIntField:132] DEBUG application.config - machineCount: 18
+2021-01-13 15:55:29,504 [parseIntField:132] DEBUG application.config - version: 1
+2021-01-13 15:55:29,504 [parseMachines:137] DEBUG application.config - ----------------------------
+2021-01-13 15:55:29,505 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 15:55:29,507 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 15:55:29,508 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 15:55:29,508 [parseAnalogs:168] DEBUG application.config - ----------------------------
+2021-01-13 15:56:00,525 [getData:306] DEBUG application.mainWindowContr - Loading ODBC driver...
+2021-01-13 15:56:00,540 [getData:310] DEBUG application.mainWindowContr - Driver loaded!
+2021-01-13 15:56:00,541 [getData:316] DEBUG application.mainWindowContr - Connecting database...
+2021-01-13 15:56:02,689 [getData:321] DEBUG application.mainWindowContr - Database connected!
+2021-01-13 15:56:04,532 [getData:393] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:56:04,684 [getData:478] DEBUG application.mainWindowContr - Retrieved data from machine 1
+2021-01-13 15:56:04,762 [getData:393] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:56:04,893 [getData:478] DEBUG application.mainWindowContr - Retrieved data from machine 2
+2021-01-13 15:56:04,972 [getData:393] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:56:05,097 [getData:478] DEBUG application.mainWindowContr - Retrieved data from machine 3
+2021-01-13 15:56:05,254 [getData:514] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 15:56:05,560 [getData:617] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 16:18:53,465 [read:64] DEBUG application.config - Root element : config
+2021-01-13 16:18:53,476 [read:79] DEBUG application.config - db_conn: jdbc:mysql://localhost:3306/desa-logger: db_user=root: db_pass=password
+2021-01-13 16:18:53,477 [parseStringField:113] DEBUG application.config - panel: ArborForest
+2021-01-13 16:18:53,478 [parseIntField:132] DEBUG application.config - machineCount: 18
+2021-01-13 16:18:53,479 [parseIntField:132] DEBUG application.config - version: 1
+2021-01-13 16:18:53,480 [parseMachines:137] DEBUG application.config - ----------------------------
+2021-01-13 16:18:53,480 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 16:18:53,483 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 16:18:53,484 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 16:18:53,485 [parseAnalogs:168] DEBUG application.config - ----------------------------
+2021-01-13 16:19:30,038 [getData:306] DEBUG application.mainWindowContr - Loading ODBC driver...
+2021-01-13 16:19:30,052 [getData:310] DEBUG application.mainWindowContr - Driver loaded!
+2021-01-13 16:19:30,053 [getData:316] DEBUG application.mainWindowContr - Connecting database...
+2021-01-13 16:19:32,479 [getData:321] DEBUG application.mainWindowContr - Database connected!
+2021-01-13 16:19:34,777 [getData:393] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 16:19:34,945 [getData:478] DEBUG application.mainWindowContr - Retrieved data from machine 1
+2021-01-13 16:19:35,026 [getData:393] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 16:19:35,164 [getData:478] DEBUG application.mainWindowContr - Retrieved data from machine 2
+2021-01-13 16:19:35,269 [getData:393] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 16:19:35,411 [getData:478] DEBUG application.mainWindowContr - Retrieved data from machine 3
+2021-01-13 16:19:35,575 [getData:514] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 16:19:35,837 [getData:617] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 16:36:14,740 [read:64] DEBUG application.config - Root element : config
+2021-01-13 16:36:14,750 [read:79] DEBUG application.config - db_conn: jdbc:mysql://localhost:3306/desa-logger: db_user=root: db_pass=password
+2021-01-13 16:36:14,751 [parseStringField:113] DEBUG application.config - panel: ArborForest
+2021-01-13 16:36:14,752 [parseIntField:132] DEBUG application.config - machineCount: 18
+2021-01-13 16:36:14,752 [parseIntField:132] DEBUG application.config - version: 1
+2021-01-13 16:36:14,753 [parseMachines:137] DEBUG application.config - ----------------------------
+2021-01-13 16:36:14,753 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 16:36:14,756 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 16:36:14,756 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 16:36:14,757 [parseAnalogs:168] DEBUG application.config - ----------------------------
+2021-01-13 16:36:39,662 [getData:306] DEBUG application.mainWindowContr - Loading ODBC driver...
+2021-01-13 16:36:39,679 [getData:310] DEBUG application.mainWindowContr - Driver loaded!
+2021-01-13 16:36:39,679 [getData:316] DEBUG application.mainWindowContr - Connecting database...
+2021-01-13 16:36:42,216 [getData:321] DEBUG application.mainWindowContr - Database connected!
+2021-01-13 16:36:44,199 [getData:393] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 16:36:44,332 [getData:478] DEBUG application.mainWindowContr - Retrieved data from machine 1
+2021-01-13 16:36:44,410 [getData:393] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 16:36:44,535 [getData:478] DEBUG application.mainWindowContr - Retrieved data from machine 2
+2021-01-13 16:36:44,623 [getData:393] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 16:36:44,753 [getData:478] DEBUG application.mainWindowContr - Retrieved data from machine 3
+2021-01-13 16:36:44,898 [getData:514] DEBUG application.mainWindowContr - read file succesfully
+2021-01-13 21:20:12,371 [read:64] DEBUG application.config - Root element : config
+2021-01-13 21:20:12,381 [read:79] DEBUG application.config - db_conn: jdbc:mysql://localhost:3306/desa-logger: db_user=root: db_pass=password
+2021-01-13 21:20:12,382 [parseStringField:113] DEBUG application.config - panel: PanelName
+2021-01-13 21:20:12,383 [parseIntField:132] DEBUG application.config - machineCount: 18
+2021-01-13 21:20:12,383 [parseIntField:132] DEBUG application.config - version: 1
+2021-01-13 21:20:12,384 [parseMachines:137] DEBUG application.config - ----------------------------
+2021-01-13 21:20:12,385 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 21:20:12,387 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 21:20:12,388 [parseMachines:142] DEBUG application.config - Current Element :machine
+2021-01-13 21:20:12,388 [parseAnalogs:168] DEBUG application.config - ----------------------------

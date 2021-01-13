@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<config>
+	<panel>PanelName</panel>
+	<version>1</version>
+	<machineCount>18</machineCount>
+	<analogs>
+	</analogs>
+	<machines>
+		<machine id="1" name="Leadermac Re-Saw1" vol="1500" inv="1"></machine>
+		<machine id="2" name="Leadermac Re-Saw2" vol="1500" inv="1"></machine>
+		<machine id="3" name="Leadermac Moulder" vol="4000" inv="2"></machine>
+	</machines>
+	<inverters>
+		<inverter id="1"></inverter>
+		<inverter id="2"></inverter>
+	</inverters>
+	<db_conn user="root" password="password"></db_conn>
+</config>
